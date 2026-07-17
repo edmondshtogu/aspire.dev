@@ -1,0 +1,29 @@
+src/frontend/src/data/aspire-integrations.json
+  s_3307119f9d5ac8::t_4c391a8dc57a65 2182,2193-2194
+  s_3307119f9d5ac8::t_8d4a460ab62b3d 2180-2181,2183-2192,2195
+  s_3307119f9d5ac8::t_716c6d9e2b6da4 2179
+src/frontend/src/data/integration-docs.json
+  s_3307119f9d5ac8::t_2630ec82cf973d 419-421
+  s_3307119f9d5ac8::t_e026d95d3d14d4 418
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "566ebf0fe0124cfa1f73ec46372f0323a3899452",
+  "prompts": {},
+  "humans": {
+    "h_3c376fff943c76": {
+      "author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3307119f9d5ac8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fb2959c-df91-4e4b-96f4-f223137a47c5",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  }
+}
