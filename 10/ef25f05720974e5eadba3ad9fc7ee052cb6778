@@ -1,0 +1,31 @@
+src/frontend/src/content/docs/integrations/compute/floci.mdx
+  s_7733622875cdc5::t_5caac873f4f33b 22,26
+  h_3c376fff943c76 8-9,11-21,25,27-28
+src/frontend/src/components/IntegrationGrid.astro
+  s_7733622875cdc5::t_9005b1cf4a549b 186
+  s_7733622875cdc5::t_f56caf790ca195 46
+  h_3c376fff943c76 45
+src/frontend/src/assets/icons/floci-icon-light.svg
+  s_7733622875cdc5::t_fb8d866b9f21bc 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "10ef25f05720974e5eadba3ad9fc7ee052cb6778",
+  "prompts": {},
+  "humans": {
+    "h_3c376fff943c76": {
+      "author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_7733622875cdc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52857f0f-0827-4cdf-a2f1-a40c3c73d6fc",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  }
+}
