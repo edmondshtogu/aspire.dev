@@ -1,0 +1,19 @@
+src/frontend/src/content/docs/integrations/compute/k3s.mdx
+  s_7733622875cdc5::t_44bb9f6fa2a26d 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "e63e5a6be13dd748fc910a1376927185a31c663e",
+  "prompts": {},
+  "sessions": {
+    "s_7733622875cdc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52857f0f-0827-4cdf-a2f1-a40c3c73d6fc",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  }
+}
