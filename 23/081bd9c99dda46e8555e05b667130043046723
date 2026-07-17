@@ -1,0 +1,39 @@
+src/frontend/src/components/IntegrationGrid.astro
+  h_3c376fff943c76 55,192
+src/frontend/src/content/docs/integrations/compute/k3s.mdx
+  s_d6cdc680562e69::t_f21833e1bf651e 2-118,125,127-128,130-161,163-164,166,168,171-208,210-344,348-350,354-414,419-420,422
+  s_d6cdc680562e69::t_a0ae4ae6611ad2 162,165,167,169-170
+  s_d6cdc680562e69::t_32f2d03f44339c 120-122
+  s_d6cdc680562e69::t_60ef53b6b6aa93 209
+  h_3c376fff943c76 418,421
+  s_d6cdc680562e69::t_623013a00672dc 345-347,351-353
+  s_d6cdc680562e69::t_f8e8981def4a58 1
+  s_d6cdc680562e69::t_abbd83ba3eb36e 119
+  s_d6cdc680562e69::t_b5b72937d2d6b7 123-124
+  s_d6cdc680562e69::t_611c1d30cbca82 126
+  s_d6cdc680562e69::t_69e9b4e0709119 129
+  s_d6cdc680562e69::t_bbb56dda2bc883 415-417
+src/frontend/config/sidebar/integrations.topics.ts
+  h_3c376fff943c76 871
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "23081bd9c99dda46e8555e05b667130043046723",
+  "prompts": {},
+  "humans": {
+    "h_3c376fff943c76": {
+      "author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_d6cdc680562e69": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64576df3-90ba-44e5-9caf-348dfd037880",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  }
+}
