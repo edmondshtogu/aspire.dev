@@ -1,0 +1,31 @@
+src/frontend/src/content/docs/integrations/compute/k3s.mdx
+  s_21d96e6100a946::t_f31f3ca8f042a8 40-47
+  s_21d96e6100a946::t_53ed3b45780bee 101-118
+  s_21d96e6100a946::t_543517e711a63e 432-434,443-448,450-455
+  h_3c376fff943c76 449
+  s_21d96e6100a946::t_c613168289ad85 56
+  s_21d96e6100a946::t_041cbb42c1337e 440
+  s_21d96e6100a946::t_9feaf710210ad9 77
+  s_21d96e6100a946::t_07b3e9af30b0c9 456
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "9cd3a3c766c157294d2a152aac86902ba4c9ad90",
+  "prompts": {},
+  "humans": {
+    "h_3c376fff943c76": {
+      "author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_21d96e6100a946": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "18fddfd7-4f86-45aa-8b3e-bac92a875603",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  }
+}
