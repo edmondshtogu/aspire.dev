@@ -1,0 +1,28 @@
+src/frontend/src/content/docs/integrations/compute/floci.mdx
+  s_7733622875cdc5::t_47bf9aa5ec7083 386
+  s_7733622875cdc5::t_89286c17d05bba 329-368,374-383
+  s_7733622875cdc5::t_375d566f50100a 414-415
+  h_3c376fff943c76 369-373
+  s_7733622875cdc5::t_39abd2aa45e693 418-420,437-439,441
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "642e64faaf4775af4037a0fa3796974f260ce821",
+  "prompts": {},
+  "humans": {
+    "h_3c376fff943c76": {
+      "author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_7733622875cdc5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52857f0f-0827-4cdf-a2f1-a40c3c73d6fc",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "edmondshtogu <edmondshtogu@gmail.com>"
+    }
+  }
+}
